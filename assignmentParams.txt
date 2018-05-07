@@ -1,0 +1,22 @@
+1)Create JSON with array of objects:
+-Object{
+ name:
+ price:
+ imgUrl
+}
+
+2)Get JSON and load in frontend where each object is displayed as follows:
+container
+-image
+-name
+-price
+-buttons
+--add button
+---button add\lower quantity
+(add\amount\lower)
+amount = 1;
+if amount is 1 and minus hit--remove\hide this button)
+
+top of page show:
+-amount of all items total
+-total sum
